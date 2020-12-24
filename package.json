@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://nomangul.github.io/React-with-Axios",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
     "react-scripts": "1.1.5"
